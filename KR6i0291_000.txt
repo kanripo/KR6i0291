@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛藏經
+#+DATE: 2015-08-30 20:15:19.947271
+#+PROPERTY: JUAN 0
